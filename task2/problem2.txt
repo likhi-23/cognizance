@@ -1,0 +1,16 @@
+pseudocode for printing nth fibonacci number.
+
+step-1 : Function Main
+step-2 : Declare Integer check, p, q, r, s
+step-3 : Input check
+step-4 : Assign q = 0
+step-5 : Assign r = 1
+step-6 : Assign p = 0
+step-7 : While p<check(execute a while loop)
+        a)Assign p = p+1
+        b)Assign s = q+r
+        c)Assign q = r
+        d)Assign r = s
+    End
+step-8:  Output q
+End
