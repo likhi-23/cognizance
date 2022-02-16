@@ -1,0 +1,22 @@
+pseudocode for checking whether a number is divisible by 3 or not
+
+Function Main
+step-1 : Declare Integer p, q, r
+    
+step-2:  Input p
+step-3:  Assign r = 0
+step-4:  If p<0
+step-5:  Assign p = -p
+    End
+step-6: For q = 0 to p step 3(execute for loop here)
+       a) If q==p
+       b) Assign q = p+1
+       c) Assign r = 1
+        End
+    End
+step-7:  If r==1
+step-8:  Output "true"
+    
+step-9: otherwise Output "false"
+    End
+End
