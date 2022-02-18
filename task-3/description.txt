@@ -1,0 +1,3 @@
+My web design was based on landing page of an ott platform - "moviesnow" i used figma tool to design this landing page .  i created logo for my landing page using canva tool
+figma really helps a lot in designing this web pages....one can use figma tool or adobe xd for designing landing pages...
+i have used rectangular frameworks for buttons in my page and used some good fill in colors ....arrow alignments for describing my ott platform
